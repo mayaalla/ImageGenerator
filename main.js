@@ -9,7 +9,7 @@ let three = document.getElementById("3");
 let four = document.getElementById("4");
 let gnrt = document.getElementById("gnrt");
 let err = document.getElementById("err")
-const key = "Bearer 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";
+const key = "Bearer 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";
 let k;
 let el;
 let array = [];
